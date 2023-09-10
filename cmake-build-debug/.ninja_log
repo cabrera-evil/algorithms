@@ -1,8 +1,0 @@
-# ninja log v5
-0	18	1692310296078934236	build.ninja	3c4b8ad47ba72b1
-0	218	1692308055271921918	CMakeFiles/algorithms.dir/sorting/insertionSort.cpp.o	bac050863660afda
-218	260	1692308055315918518	algorithms	e5d8517319262e26
-0	215	1692310400624593642	CMakeFiles/algorithms.dir/sorting/insertionSort.cpp.o	bac050863660afda
-215	258	1692310400664601513	algorithms	e5d8517319262e26
-1	222	1692310421780814156	CMakeFiles/algorithms.dir/sorting/insertionSort.cpp.o	bac050863660afda
-222	264	1692310421824823039	algorithms	e5d8517319262e26
